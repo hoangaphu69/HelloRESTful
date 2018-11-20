@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hoangaphu
+ *
+ */
+module javabasic {
+}
